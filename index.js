@@ -27,7 +27,7 @@ const store = {
 
 /* when a bookmark is selected, user sees a detailed view with description and site link*/
 
-/*when a 'filter by' dropdown element is selected users can filter bookmarks by rating*/
+/*when a 'filter by' dropdown element is selected users can filter bookmarks by rating
 $(document).ready(function(){
   $("#bookmarkForm").hide();
 
@@ -45,7 +45,7 @@ $(document).ready(function(){
     //maybe bookmark added alert
 
     // re-render
-
+/*
   })
 
   $("#addNew").on("click", function(event){
@@ -53,3 +53,4 @@ $(document).ready(function(){
     // re-render
   })
 });
+*/
