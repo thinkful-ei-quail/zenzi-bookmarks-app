@@ -1,7 +1,7 @@
 'use strict';
 
 import {appView} from './appView.js'; 
-import {bookMarkListing} from './bookMarkListing.js';
+import {bookMarkListing} from './bookmarkListing.js';
 import {getBookmarks, apiStoreBookmarks, deleteBookmarks, apiStore} from './api.js'; 
 import {createBookMarkTemplate} from './createNewBookmark.js'; 
 import {generateDescription} from './expandedBookmarkView.js';
